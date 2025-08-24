@@ -1,7 +1,7 @@
 # FootstepsFX - Particle trails for your server
 
 **Autor:** wolfwriter \
-**Version:** FootstepsFX-1.0-1.21. \
+**Version:** FootstepsFX-1.0-1.21.1 \
 **Lizenz:** MIT (adapted for plugins)
 
 ## What is FootstepsFX?
