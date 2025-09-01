@@ -1,0 +1,20 @@
+name: FootstepsFX
+version: '1.1-1.21.1'
+main: wolfwriter.footsteps_fx.FootstepsFX
+api-version: '1.21.1'
+prefix: [ FootstepsFX ]
+authors: [ Wolfwriter ]
+description: Players leave a (configurable) particle trail behind them when running.
+commands:
+  trail:
+    permission: trail.use
+permissions:
+  trail.use:
+    default: true
+  trail.reload:
+    default: op
+  trail.unlock:
+    default: op
+  trail.lock:
+    default: op
+
